@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Khushal Patil
+A passionate Full Stack Developer from India
 
-<!--
-**KushhCodes/KushhCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Python, JavaScript
 
-Here are some ideas to get you started:
+📫 How to reach me: khushalpatil0405@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/khushal-patil-254)
+## Languages and Tools:  
+![C](https://img.shields.io/badge/C-99-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Java](https://img.shields.io/badge/Java-JDK_17-green)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
