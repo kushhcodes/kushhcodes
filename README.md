@@ -6,7 +6,7 @@ A passionate Full Stack Developer from India
 📫 How to reach me: khushalpatil0405@gmail.com
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/khushal-patil-254456287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-patil-254456287)
 ## Languages and Tools:  
 ![C](https://img.shields.io/badge/C-99-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
