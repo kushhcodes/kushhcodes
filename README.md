@@ -1,7 +1,7 @@
 # Hi 👋, I'm Khushal Patil
-A passionate Full Stack Developer from India
+A passionate Full Stack Developer.
 
-🌱 I’m currently learning Python, JavaScript
+🌱 I’m currently learning Python
 
 📫 How to reach me: khushalpatil0405@gmail.com
 
