@@ -1,12 +1,13 @@
 # Hi 👋, I'm Khushal Patil
 A passionate Full Stack Developer.
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python, Django
 
 📫 How to reach me: khushalpatil0405@gmail.com
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-patil-254456287)
+
 ## Languages and Tools:  
 ![C](https://img.shields.io/badge/C-99-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
