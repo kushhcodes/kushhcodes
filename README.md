@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushal Patil</h1>
-<h3 align="center">A passionate Web developer from India.</h3>
+<h3 align="center">A passionate Python developer from India.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Data Scince, Pandas**
 
 - 💬 Ask me about **Python**
 
