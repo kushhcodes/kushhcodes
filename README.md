@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Khushal%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20%20%7C%20ML%20Engineer%20%7C%20DSA%20Enthusiast&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1a3a6b,100:1e90ff&height=200&section=header&text=Khushal%20Patil&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20ML%20%7C%20Data%20Science%20%7C%20DSA&descAlignY=58&descColor=60b4ff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+ML+Systems+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A0;Crafting+Python+Backend+APIs+%F0%9F%90%8D;B.Tech+CSE+@+Parul+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=600&lines=Building+ML+Systems+%F0%9F%A4%96;Solving+DSA+Problems+Daily+%F0%9F%A7%A0;Crafting+Python+Backend+APIs+%F0%9F%90%8D;B.Tech+CSE+@+Parul+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@ class KhushalPatil:
         self.degree     = "B.Tech CSE @ Parul University (2023–2027)"
         self.cgpa       = 7.65
         self.location   = "Vadodara, Gujarat, India"
-        self.focus      = ["Machine Learning", "Python", "DSA", "Data Science"]
+        self.focus      = ["Machine Learning", "Python Backend", "DSA"]
         self.currently  = "IBM Data Science Professional Certificate (Coursera)"
         self.dsa        = "450+ problems solved across LeetCode & more"
 
@@ -158,10 +158,10 @@ A full-stack ML system that classifies social profiles as genuine or fake using 
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kushhcodes&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kushhcodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=kushhcodes&color=1e90ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kushhcodes)
 
 *"Code is not just syntax — it's problem-solving in action."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,50:1a3a6b,100:0a1628&height=120&section=footer" width="100%"/>
 
 </div>
