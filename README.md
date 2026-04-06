@@ -21,7 +21,7 @@ class KhushalPatil:
         self.degree     = "B.Tech CSE @ Parul University (2023–2027)"
         self.cgpa       = 7.65
         self.location   = "Vadodara, Gujarat, India"
-        self.focus      = ["Machine Learning", "Python", "Deep Learning" "DSA"]
+        self.focus      = ["Machine Learning", "Python", "Deep Learning", "DSA"]
         self.currently  = "IBM Data Science Professional Certificate (Coursera)"
         self.dsa        = "450+ problems solved across LeetCode & more"
 
