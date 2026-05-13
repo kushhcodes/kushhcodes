@@ -1,12 +1,19 @@
 <div align="center">
 
-# Khushal Patil
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Khushal+Patil)](https://github.com/kushhcodes)
 
-**Python · Machine Learning · Data Science · DSA**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Python+%2F+Machine+Learning+%2F+Data+Science;B.Tech+CSE+%E2%80%94+Parul+University+(2023%E2%80%932027);450%2B+DSA+Problems+Solved;IBM+Data+Science+Certificate+%E2%80%94+In+Progress)](https://github.com/kushhcodes)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushal-patil-254456287)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:khushalpatil0405@gmail.com)
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushal-patil-254456287)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khushalpatil0405@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kushhcodes)
+&nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=kushhcodes&color=0077B5&style=flat-square&label=Profile+Views)](https://github.com/kushhcodes)
 
 </div>
@@ -145,7 +152,5 @@ A full-stack ML system that classifies social profiles as genuine or fake using 
 ---
 
 <div align="center">
-
-*"Code is not just syntax — it's problem-solving in action."*
-
+<sub>Vadodara, Gujarat, India &nbsp;·&nbsp; <a href="mailto:khushalpatil0405@gmail.com">khushalpatil0405@gmail.com</a></sub>
 </div>
